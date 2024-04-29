@@ -1,4 +1,3 @@
 # Random Databases
 
-US Fertility 1960 - 2021 [CSV](databases/us_fertility_1960_2021.csv)
-Source: https://www.kaggle.com/datasets/omarsobhy14/fertility-rate-per-country
+Natality Trends in the United States, 1909–2018 [CSV](databases/US_Births_and_General_Fertility_Rates_1909_2018.csv) | [Source](https://www.cdc.gov/nchs/data-visualization/natality-trends/index.htm)
