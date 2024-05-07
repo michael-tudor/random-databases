@@ -10,4 +10,4 @@ US Consumer Price Index (Urban), 1947-2024 [CSV](databases/US_Consumer_Price_Ind
 
 US Home Prices: Monthly Median, 1953-2024 [CSV](databases/US_Home_Prices_Monthly_Median.csv) | [Source](https://dqydj.com/historical-home-prices/)
 
-US Inflation: Consumer Prices, 1960-2022 [CSV](databases/US_Inflation_Consumer_Prices.csv) | [Source]((https://fred.stlouisfed.org/series/FPCPITOTLZGUSA)
+US Inflation: Consumer Prices, 1960-2022 [CSV](databases/US_Inflation_Consumer_Prices.csv) | [Source](https://fred.stlouisfed.org/series/FPCPITOTLZGUSA)
